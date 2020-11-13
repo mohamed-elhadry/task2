@@ -1,0 +1,51 @@
+h1
+{
+    color:rgb(255, 0, 128);
+    font-size: xx-large;
+}
+p
+{
+    color:rgb(0, 140, 255);
+    width: 600px;
+    font-size: x-large ;
+}
+p.two
+{
+    color:rgb(0, 140, 255);
+    width: 600px;
+    font-size: x-large ;
+}
+.qqq
+{
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.www
+{
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.eee
+{
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.rrr
+{
+    border-top-right-radius: 50px;
+}
+.ttt
+{
+    border-top-left-radius: 50px;
+}
+.yyy
+{
+    border-top-left-radius: 50px;
+}
+.hf
+{
+    background-image: url('11.jpg');
+    color: darkseagreen;
+}
